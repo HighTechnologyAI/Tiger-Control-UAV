@@ -6,3 +6,15 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+# WebStorm / JetBrains IDE
+.idea/
+*.iml
+
+# Node.js
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
